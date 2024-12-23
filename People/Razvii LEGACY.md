@@ -6,7 +6,7 @@ tags:
 =He is Romanian =
 <s><small>(and [[furry]])</small></s>
 FUCK OFF [[Tom LEGACY|TOM]]
-<s><small>(and [[furry]])</small></s><br />
+<s><small>(and [[furry]])</small></s>
 FUCK OFF [[People/Tom LEGACY|TOM]]
 
 
@@ -23,7 +23,6 @@ Observations indicate that all ''Razvii'' units share some kind of collective aw
 A ''Razvii'' is typically deployed to manage or host ''[[Morons and Warheads LEGACY|Minecraft Facilities]]'' and ''[[Heists|Precure Funding]]'' for the operations of ''[[Yet Another Discord|YAD]]''
 
 A ''Razvii'' is typically deployed to manage or host ''[[Morons and Warheads LEGACY|Minecraft Facilities]]'' for the operations of ''[[Yet Another Discord|YAD]]''
-<br />
 ==Yord Mandated Trivia==
 *Razvii is illegal in over 71 states and is at large.
 *Razvii likes "'em chode looking ass cans UwU".

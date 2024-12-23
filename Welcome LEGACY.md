@@ -21,7 +21,7 @@ Home of many projects and experiments run by the [Technicians](Technicians.md), 
 A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
 
 # Approved Broadcasting
-[Scruby](Scruby%20LEGACY.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](Technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
+[Scruby](Scruby%20LEGACY.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](Vtubers). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](Technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
 Occasionally viewers may find YuGiOh content amongst the approved broadcasting. This content is not in line with current views or affiliations of the Yet Another Community and should be immediately dismissed as relics of a time long gone.
 
 ## Technician Approved Games
