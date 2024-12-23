@@ -1,4 +1,4 @@
-# Welcome to th Communal Archive of Yet Another Discord
+# Welcome to the Communal Archive of Yet Another Discord
 Here, our [technicians](technicians.md) keep a vaguely detailed archive of all things relating to the ongoing development and evolution of our project.
 
 This wealth of information is censored and drip fed to the public under strict supervision by [Scruby LEGACY](Scruby%20LEGACY.md).
