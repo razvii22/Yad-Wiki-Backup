@@ -1,6 +1,6 @@
 == The Morons and Warheads Program ==
 <<<<<<< Updated upstream
-Highly beneficial tax arrangements were fabricated to incentivise [[Scruby LEGACY]] to form an independent city state while proposals were made to [[Ficko|Razvii's lawyer]] explaining how [[Razvii LEGACY|Raz]] could gain diplomatic immunity by starting one himself. 
+Highly beneficial tax arrangements were fabricated to incentivise [[Scruby LEGACY]] to form an independent city state while proposals were made to [[Ficko LEGACY|Razvii's lawyer]] explaining how [[Razvii LEGACY|Raz]] could gain diplomatic immunity by starting one himself. 
 * The two individuals would be grouped with other team members and deployed to undeveloped locations. 
 * Years of hatred and deep rivalry between [[Scruby LEGACY]] and [[Razvii LEGACY]] would provide ideal conditions for a cold war to start, forcing both factions to dedicate their entire attention towards an arms race. 
 =======
@@ -37,7 +37,7 @@ Assuming either faction would uphold common sense was a mistake. Fearing no reta
 Assuming either faction would uphold common sense was a mistake. Fearing no retaliation from [[Scruby LEGACY]], Brent or Josh, [[Razvii LEGACY]] and [[Ficko LEGACY]] became bored and began launching their surplus thermonuclear warheads in any which way just to give themselves something to do. <br /> This was bad. <br /> Constant detonation of incendiary and nuclear weapons caused the atmosphere itself to ignite. In order to survive, both factions were forced to collaborate. Kartoshkastrana pooled their resources with the knowledge and experience of [[Fudrehcs LEGACY]] to start a new space program to escape the now toasty planet. As sea levels rose the group was pushed onto a small island territory. From here they would construct the [[Brazzers IBM|IBM]], an enormous intergalactic cube powered by a carefully moderated blackhole. In their rush to escape, [[Scruby LEGACY]], Brent, [[Razvii LEGACY]], and [[Ficko LEGACY]] forgot to recover Josh from the moon, where he probably remains to this day. <br/>
 >>>>>>> Stashed changes
 ----
-==[[The Fort|Fort World]]==
+==[[Fort World LEGACY|Fort World]]==
 <div style="text-align: center>''<blockquote>When the world was set alight, to be extinguished by floods, that will be the hardship. Their baptism of fire.</blockquote>''
 ----
 <div style="text-align: left> After nuclear infernos made the world inhospitable, the last survivors left for space to escape the rising sea levels. In their absence other species were able to take a hold on the world. Extreme environmental pressures forced remaining creatures to evolve and adapt rapidly. Very quickly they learnt to manipulate their surroundings in ways similar to the worlds previous inhabitants.

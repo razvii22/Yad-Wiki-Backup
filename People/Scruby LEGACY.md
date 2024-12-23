@@ -3,9 +3,6 @@
 =[https://www.twitch.tv/lord_scruby Lorad_Scrubnik]=
 
 ''Lord_Scruby'' is the callosal pile of tortoise excrement supposedly "in charge" of all this incoherent mess. He is not in any capacity suitable to hold any kind of power and should not be seen as competent.
-
-It is the primary purpose of the ''[[Janitors]]'' to absorb the maddened ramblings of ''Scruby'' and pretend they agree with or at least acknowledge them. They do this sometimes but ''Scruby'' is often too busy being angry about the pointlessness of ''[[Cheddar Cheese]]'', or any number of other idiotic tangents, to notice the failure of his supervisors.
-
 =="Hobbies"==
 
 [[Cheese LEGACY]]. 

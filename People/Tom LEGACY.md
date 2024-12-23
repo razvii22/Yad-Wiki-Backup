@@ -10,8 +10,6 @@ Anyway, tom is known for their ability to find the most entertainingly shitty ga
 
 <<<<<<< Updated upstream
 Tom has less wiki than [[Ficko LEGACY]]
-
-And  [[Through Abandon]]
 =======
 Tom has less wiki than [[People/Ficko LEGACY]]
 >>>>>>> Stashed changes
