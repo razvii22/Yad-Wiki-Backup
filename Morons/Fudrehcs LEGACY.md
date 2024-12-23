@@ -7,7 +7,7 @@ The ''Federal United Republic of the Equal and Happy Citizens of Scrobikia'' was
 ==Members==
 
 The two key members of ''FUDRECHS'' wer ''[[People/Scruby LEGACY]]'' (Corporal chief supreme of digging holes and not much else) and ''[[Josh]]'' (mr.Fish).
-An internet stranger by the name ''WokeUpLikeThis'' was there at the start but never did anything, and towards the end of ''FUDRECHS'', ''[[Tom LEGACY]]'' was forced into joining.
+An internet stranger by the name ''WokeUpLikeThis'' was there at the start but never did anything, and towards the end of ''FUDRECHS'', ''[[People/Tom LEGACY]]'' was forced into joining.
 
 ==Achievents==
 
