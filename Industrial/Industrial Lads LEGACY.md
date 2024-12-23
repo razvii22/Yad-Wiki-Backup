@@ -136,4 +136,3 @@ Good for nothin' trouble makers. Always committing arson. <br />
 ==Cryptids==
 '''Entity''' <br />
 It's gone, we removed it, there's no way it's still around, don't think about it.
-[[Category:Places]]

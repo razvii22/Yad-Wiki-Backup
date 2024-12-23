@@ -12,14 +12,10 @@ The locations each hold a unique history and importance to the establishment, th
 Though not officially affiliated with any ongoing development programmes, this is recognised by those involved as its breeding grounds. Many of the [[technicians]] first gathered and mingled under this organization.
 ## [Morons and Warheads](Morons and Warheads.md)
 Home of many projects and experiments run by the [technicians](technicians.md), the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
-## [Terrarium](Terrarium.md)
-An attempt by [Scruby](scruby.md) and [Computerfreaker](Computerfreaker.md) to create a modpack browser for Terraria. The attempt was not successful.
 ## [Yet Another Discord](Yet Another Discord.md)
 A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
-## [Yet another Urbanist](https://www.youtube.com/c/YetAnotherUrbanist)
-We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [Scruby](scruby.md) so [Technicians](technicians.md) have accepted him as an honorary branch of ''Yet Another Community''.
 
-# Technician Approved Broadcasting
+# Approved Broadcasting
 [Scruby](scruby.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
 Occasionally viewers may find YuGiOh content amongst the approved broadcasting. This content is not in line with current views or affiliations of the Yet Another Community and should be immediately dismissed as relics of a time long gone.
 
