@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 '''''Just a few interesting facts about cheese.'''''   
 The Credem bank in Italy accepts locally produced Parmesan Cheese as deposits for small loans. The cheese matures in the bank's vaults and is sold if repayment is not received within 2 years 
 Cheddar's natural colour is not orange, it is in fact a cream like colour. Tbh, Cheddar is never orange in the UK, IDK if it is just an American thing to have orange cheddar but eh 

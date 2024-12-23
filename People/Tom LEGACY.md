@@ -1,3 +1,7 @@
+---
+tags:
+  - legacy
+---
 
 Epic Femboy UwU
 <small>More like average femboy lmfao</small>

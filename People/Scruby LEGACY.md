@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 ====Diabetic, Rapper, VTuber, Sound Engineer, Moron, Angry, ''British''====
 
 =[https://www.twitch.tv/lord_scruby Lorad_Scrubnik]=

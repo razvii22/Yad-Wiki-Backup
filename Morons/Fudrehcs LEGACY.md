@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 ====There were meant to be 3 of them, but one ran away and another one arrived so there are still 3 of them but only 2 are useful.====
 
 =Nuclear Arms Race=

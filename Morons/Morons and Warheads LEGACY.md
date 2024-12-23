@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 == The Morons and Warheads Program ==
 <<<<<<< Updated upstream
 Highly beneficial tax arrangements were fabricated to incentivise [[Scruby LEGACY]] to form an independent city state while proposals were made to [[Ficko LEGACY|Razvii's lawyer]] explaining how [[Razvii LEGACY|Raz]] could gain diplomatic immunity by starting one himself. 

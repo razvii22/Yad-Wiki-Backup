@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 # Welcome to the Communal Archive of Yet Another Discord
 Here, our [technicians](technicians.md) keep a vaguely detailed archive of all things relating to the ongoing development and evolution of our project.
 

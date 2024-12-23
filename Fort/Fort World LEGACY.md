@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 <p style="text-align: center;">When the world was set alight, to be extinguished by floods, that will be the hardship. Their baptism of fire.</p>
 <hr>
 After nuclear infernos made the world inhospitable, the last survivors left for space to escape the rising sea levels. In their absence other species were able to take a hold on the world. Extreme environmental pressures forced remaining creatures to evolve and adapt rapidly. Very quickly they learnt to manipulate their surroundings in ways similar to the worlds previous inhabitants

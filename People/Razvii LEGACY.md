@@ -1,3 +1,8 @@
+---
+tags:
+  - legacy
+---
+
 =He is Romanian =
 <<<<<<< Updated upstream
 <s><small>(and [[furry]])</small></s>
