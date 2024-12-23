@@ -2,7 +2,7 @@
 
 =Nuclear Arms Race=
 
-The ''Federal United Republic of the Equal and Happy Citizens of Scrobikia'' was a pair of homeless British dudes living in a hole underneath a big tundra. They believed they could compete against ''[[Kartoshkastrana]]'' in achieving world domination and restore the British Empire but were utterly unsuccessful in doing so and just dug a bunch of holes.
+The ''Federal United Republic of the Equal and Happy Citizens of Scrobikia'' was a pair of homeless British dudes living in a hole underneath a big tundra. They believed they could compete against ''[[Kartoshkastrana LEGACY]]'' in achieving world domination and restore the British Empire but were utterly unsuccessful in doing so and just dug a bunch of holes.
 
 ==Members==
 

@@ -12,7 +12,7 @@ Additionally, ''Scruby'' has a liking of vehicles, notably and unhealthy obsessi
 Despite efforts to use hobbies as a benign façade, ''Scruby'' was able to develop ''[[Gardening]]''  as a hobby, thus putting 140% of known humanity at risk of desprongulation at any given moment.
 
 ==Great Architecture==
-During the many projects and trials conducted in the ''[[Morons and Warheads|Morons And Warheads facility]]'', ''Scruby'' typically is forced into labour as an architect and entirety of construction workforce. His design philosophy is iconic, ambitious, definitive, revolutionary, and overwhelmingly rubbish. Notable pieces of ''Scruby's'' work include ''[[Brazzers IBM]]'' and ''[[Fort World LEGACY|The Fort]]''
+During the many projects and trials conducted in the ''[[Morons and Warheads LEGACY|Morons And Warheads facility]]'', ''Scruby'' typically is forced into labour as an architect and entirety of construction workforce. His design philosophy is iconic, ambitious, definitive, revolutionary, and overwhelmingly rubbish. Notable pieces of ''Scruby's'' work include ''[[Brazzers IBM]]'' and ''[[Fort World LEGACY|The Fort]]''
 
 ''Scruby'' enjoys avoiding taxation from His Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.
 
