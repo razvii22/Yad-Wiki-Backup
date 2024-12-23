@@ -1,6 +1,6 @@
 A [[British Knobheads|british knobhead]]
 
-Epic Femboy UwU<br/>
+Epic Femboy UwU
 <small>More like average femboy lmfao</small>
 
 more like amogus lol
@@ -12,4 +12,3 @@ Anyway, tom is known for their ability to find the most entertainingly shitty ga
 Tom has less wiki than [[Ficko LEGACY]]
 
 And  [[Through Abandon]]
-[[Category:People]]
