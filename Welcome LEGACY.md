@@ -4,7 +4,7 @@ tags:
 ---
 
 # Welcome to the Communal Archive of Yet Another Discord
-Here, our [technicians](technicians.md) keep a vaguely detailed archive of all things relating to the ongoing development and evolution of our project.
+Here, our [Technicians](Technicians.md) keep a vaguely detailed archive of all things relating to the ongoing development and evolution of our project.
 
 This wealth of information is censored and drip fed to the public under strict supervision by [Scruby LEGACY](Scruby%20LEGACY.md).
 
@@ -14,14 +14,14 @@ Testing and development has been conducted throughout various purpose-built loca
 The locations each hold a unique history and importance to the establishment, though it is not uncommon for only one location to see significant use at any given time.
 
 ## [The Church of Casimir](The Church of Casimir.md)
-Though not officially affiliated with any ongoing development programmes, this is recognised by those involved as its breeding grounds. Many of the [[technicians]] first gathered and mingled under this organization.
+Though not officially affiliated with any ongoing development programmes, this is recognised by those involved as its breeding grounds. Many of the [[Technicians]] first gathered and mingled under this organization.
 ## [Morons and Warheads](Morons and Warheads.md)
-Home of many projects and experiments run by the [technicians](technicians.md), the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
+Home of many projects and experiments run by the [Technicians](Technicians.md), the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
 ## [Yet Another Discord](Yet Another Discord.md)
 A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
 
 # Approved Broadcasting
-[Scruby](Scruby%20LEGACY.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
+[Scruby](Scruby%20LEGACY.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](Technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
 Occasionally viewers may find YuGiOh content amongst the approved broadcasting. This content is not in line with current views or affiliations of the Yet Another Community and should be immediately dismissed as relics of a time long gone.
 
 ## Technician Approved Games

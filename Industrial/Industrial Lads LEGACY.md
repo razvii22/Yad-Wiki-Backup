@@ -3,31 +3,28 @@ tags:
   - legacy
 ---
 
-====We needed an original name. We still need an original name.====
-=In The Beginning=
-<<<<<<< Updated upstream
+# We needed an original name. We still need an original name.
+## In The Beginning
 In the beginning was [[Razvii LEGACY|Raz]], and [[Razvii LEGACY|the Raz]] was with [[Scruby LEGACY|Scrub]]. He was with [[Scruby LEGACY|Scrub]] in the beginning. Through him, all servers were; without him, no servers were made that have been made. In [[Razvii LEGACY|Raz]] was life, and that life was the light of all [[Yet Another Discord|YAD]]. The light shines, and the darkness has not overcome it. 
 But [[Razvii LEGACY|Raz]] was not content with the light and had sought secretly to dismiss it, as he had his loyalty. For, unknown to [[Scruby LEGACY|Scrub]], [[Razvii LEGACY|the Raz]] had turned to [[Brent]]. Led into temptation and delivered to evil, In his treason, [[Razvii LEGACY|Raz]] had become enthralled by his affair. With [[Brent]], he started a new kingdom. One not of glory, but of forbidden excitement and unrestrained lust. 
 [[Razvii LEGACY|Raz]] could not hide it, he did not want to hide it, he made it a public display for his fatigue of [[Scruby LEGACY|Scrub's]] alliance. Inevitably, his ends were met. [[Scruby LEGACY|Scrub]] saw with his eyes the fruits of their betrayal. And what he saw was not good. 
 After many couple rows, it was decided that all three of the industrialists should be permitted on the server. And also [[Tom]]. The forests and lakes would soon give way to steel and fog, forge in pursuit of the New World. 
-=======
-In the beginning was [[Razvii LEGACY|Raz]], and [[Razvii LEGACY|the Raz]] was with [[Scruby LEGACY|Scrub]]. He was with [[Scruby LEGACY|Scrub]] in the beginning. Through him, all servers were; without him, no servers were made that have been made. In [[Razvii LEGACY|Raz]] was life, and that life was the light of all [[Yet Another Discord|YAD]]. The light shines, and the darkness has not overcome it. <br />
+In the beginning was [[Razvii LEGACY|Raz]], and [[Razvii LEGACY|the Raz]] was with [[Scruby LEGACY|Scrub]]. He was with [[Scruby LEGACY|Scrub]] in the beginning. Through him, all servers were; without him, no servers were made that have been made. In [[Razvii LEGACY|Raz]] was life, and that life was the light of all [[Yet Another Discord|YAD]]. The light shines, and the darkness has not overcome it.
 But [[Razvii LEGACY|Raz]] was not content with the light and had sought secretly to dismiss it, as he had his loyalty. For, unknown to [[Scruby LEGACY|Scrub]], [[Razvii LEGACY|the Raz]] had turned to [[Brent]]. Led into temptation and delivered to evil, In his treason, [[Razvii LEGACY|Raz]] had become enthralled by his affair. With [[Brent]], he started a new kingdom. One not of glory, but of forbidden excitement and unrestrained lust. <br />
-[[Razvii LEGACY|Raz]] could not hide it, he did not want to hide it, he made it a public display for his fatigue of [[Scruby LEGACY|Scrub's]] alliance. Inevitably, his ends were met. [[Scruby LEGACY|Scrub]] saw with his eyes the fruits of their betrayal. And what he saw was not good. <br />
-After many couple rows, it was decided that all three of the industrialists should be permitted on the server. And also [[Tom LEGACY]]. The forests and lakes would soon give way to steel and fog, forge in pursuit of the New World. <br />
->>>>>>> Stashed changes
-=The Forest=
+[[Razvii LEGACY|Raz]] could not hide it, he did not want to hide it, he made it a public display for his fatigue of [[Scruby LEGACY|Scrub's]] alliance. Inevitably, his ends were met. [[Scruby LEGACY|Scrub]] saw with his eyes the fruits of their betrayal. And what he saw was not good.
+After many couple rows, it was decided that all three of the industrialists should be permitted on the server. And also [[Tom LEGACY]]. The forests and lakes would soon give way to steel and fog, forge in pursuit of the New World.
+### The Forest
 Mesmerised by the beauty of their world, [[Razvii LEGACY|Raz]], [[Brent]] and later [[Scruby LEGACY|Scrub]] had agreed not to bring forth the taint of industry. 
-==The Start of Industry==
+##### The Start of Industry
 The aforementioned pact was not honoured. Not even slightly. There was at some point some resistance to the notion of industry, but it was in the nature of [[Technicians|technicians]] to ruin the environment before them. Immediately they set to work replacing tree and lake with steel and fog. Roads were paved, ports built, and rails laid down. And torn back up again. And laid down. Multiple times. The rails were problematic. 
-==The Pillars of Industry==
-'''Ham Manor'''
+###### The Pillars of Industry
+###### Ham Manor
 WIP 
-'''The Farm (and Boating)'''
+###### The Farm (and Boating)
 They built a farm. It produced food. They never actually used the food. Eventually they ended up with such an accumulation of food that they had to build a massive vault just to keep it out of sight. In a moment of typically YAD planning, it was decided that the vault would be built on an opposing bank of a large bay. In a desperate scheme to fix this logistical oversight, [https://youtu.be/nc-2Jg6b0Dw?t=13 a deal was struck to collude with an old foe]. They would have to use [[Boats]]. 
-'''The Workshop'''
+ ###### The Workshop
 Its terrible and it's still here. 
-'''The Smeltery'''
+###### The Smeltery
 The first actually industrial piece of Industry and the only thing that consistently works as intended more than at least 60% of the time mostly. Razvii is very proud of this one. Mason did not like it here. If you find Mason, contact a [[Technicians|Technician]] and report your sighting. Mason must be found. 
 '''The cobblestone Generator'''
 Workshop DLC with it's own DLC. Our resume to EA. 
@@ -114,7 +111,6 @@ It's not a warship.
 '''Taskmaster'''
 
 TASK MASTER!
-<!-- ____________________________________________________________________________________________________________________________________ -->
 ==Denizens of the Realm==
 '''Trevor'''
 Lumberjack. He eats sticks. Stonelings don't like him, or any of the others.
