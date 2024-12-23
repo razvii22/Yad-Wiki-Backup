@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b02c531e28c4838",
+        "id": "9b6d592e101936ea",
         "type": "tabs",
         "children": [
           {
-            "id": "139426fcb47954d6",
+            "id": "e0c93c2b38160747",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": false
+                "file": "Fort/Fort World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.gitignore)"
+              "icon": "lucide-file",
+              "title": "Fort World"
             }
           }
         ]
@@ -145,7 +146,7 @@
             }
           },
           {
-            "id": "4a628ba1322b0244",
+            "id": "9676f9e10a069951",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "139426fcb47954d6",
+  "active": "e0c93c2b38160747",
   "lastOpenFiles": [
-    "Fort/Fort World.md",
     "IBM/IBM.md",
+    "Fort/Fort World.md",
     "Morons/desktop.ini",
     "Morons",
     "Industrial/desktop.ini",
